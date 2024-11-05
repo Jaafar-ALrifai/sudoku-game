@@ -1,0 +1,6 @@
+.sudoku-grid {
+    display: grid;
+    grid-template-columns: repeat(9, 40px);
+    gap: 2px;
+  }
+  
